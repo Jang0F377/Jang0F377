@@ -1,6 +1,5 @@
 - 👋 Hello World, I'm Matt Garrett, a Fullstack software engineer with preference for Back-End technologies
-- 👀 I’m interested in MERN, React-Native, Kotlin, UI/UX, growing as a developer.
-- 🌱 I’m currently trying to better my UI/UX and front-end skills.
+- 👀 I’m interested in Typescript/Javascript, REST APIs, MERN stack, React-Native, Kotlin, UI/UX, Swift, growing as a developer.
 - 📫 How to reach me: mjgarrett7092@gmail.com
 
 <!---
